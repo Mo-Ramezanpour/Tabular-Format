@@ -1,6 +1,6 @@
 ## Merging & Changing the Format to Tabular
 
-**This Python Script:** 
+**This Python Script:**
 - Processes sales data from multiple Excel files
 - Merges the data, and
 - Saves it in a consolidated format.
